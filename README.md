@@ -60,9 +60,12 @@ dG = [1.52537911] kcal/mol
 
 <p>Jupyter notebook: example/pml-analysis-demo.ipynb</p>
 
-<p>The notebook can be rewrited as a command line:</p>
+<p>The notebook can be rewrited as a command line tool:</p>
 <pre line="1" lang="python">
 ./dx_score_pml.py 1ke8_3drism_density.dx 1ke8.pml
+</pre>
+<p>output:</p>
+<pre line="1" lang="python">
 H -10.37655 47.536613 9.012116 0.3586991705409551
 H -7.421667 51.1267 15.606299 0.04042515679437711
 H -13.282467 42.787968 9.254216 0.10889361245169017
