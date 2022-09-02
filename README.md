@@ -60,6 +60,19 @@ dG = [1.52537911] kcal/mol
 
 <p>Jupyter notebook: example/pml-analysis-demo.ipynb</p>
 
+<p>The notebook can be rewrited as a command line:</p>
+<pre line="1" lang="python">
+./dx_score_pml.py 1ke8_3drism_density.dx 1ke8.pml
+H -10.37655 47.536613 9.012116 0.3586991705409551
+H -7.421667 51.1267 15.606299 0.04042515679437711
+H -13.282467 42.787968 9.254216 0.10889361245169017
+HBA_target -10.819 52.155 11.823 9.889706906006275
+HBA_target -9.244 45.091 6.068 3.234434937898573
+HBA_target -11.648 45.394 5.712 3.075492435079222
+HBA_target -11.648 45.394 5.712 3.075492435079222
+HBD_origin -10.311 49.457 10.882 2.2363029801960863
+HBD_origin -9.501 52.781 13.629 6.264434521935546
+</pre>
 <h2>Reference</h2>
 <ol>
    <li>Hu, B.; Lill, M. A. Protein Pharmacophore Selection Using Hydration-Site Analysis. J. Chem. Inf. Model. 2012, 52 (4), 1046–1060. https://doi.org/10.1021/ci200620h.</li>
