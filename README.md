@@ -55,9 +55,9 @@ dG = [1.52537911] kcal/mol
 -9.244 45.091 6.068 3.234434937898573
 </pre>
 <h3>Jupyter notebook</h3>
-<p><a ref="https://github.com/gkxiao/ph4_selection_using_hydration_site_analysis/blob/main/example/pml-analysis-demo.ipynb">The jupyter notebook</a> in the example shows how to use 3D-RISM water density to score the features from the ligandscout pharmacophore model.</p>
+<p>The jupyter notebook in the example shows how to use 3D-RISM water density to score the features from the ligandscout pharmacophore model.</p>
 
-
+<p>Jupyter notebook: example/pml-analysis-demo.ipynb</p>
 
 <h2>Reference</h2>
 <ol>
