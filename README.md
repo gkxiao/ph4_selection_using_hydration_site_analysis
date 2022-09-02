@@ -22,7 +22,7 @@ pip install lxml
 
 <h2>Examples</h2>
 <h3>Show &Delta;G at a coordination point</h3>
-<img src="https://github.com/gkxiao/gisttools/blob/master/example/benzene/gist.png">
+<img src="https://github.com/gkxiao/ph4_selection_using_hydration_site_analysis/blob/main/img/gist.png">
 <pre line="1" lang="python">
 >>> from gridData import Grid
 >>> g =  Grid("local_dG.dx")
@@ -35,7 +35,7 @@ array([0.00361614])
 >>>
 </pre>
 <h3 id="ph4">Score a pharmacophore feature</h3>
-<img src="https://github.com/gkxiao/gisttools/blob/master/example/benzene/gist_feature_score.png" width="400" height="363">
+<img src="https://github.com/gkxiao/ph4_selection_using_hydration_site_analysis/blob/main/img/gist_feature_score.png" width="400" height="363">
 <pre line="1" lang="python">
 >>> from gridData import Grid
 >>> dG =  Grid("G:/work/3oot_gist/Local_unhappy_water.dx")
@@ -46,6 +46,7 @@ dG = [1.52537911] kcal/mol
 >>>
 </pre>
 <h3>Water density at a coordination point</h3>
+
 <p>Show the water density at coordination point (-12.305, 42.442, 9.476) and (-9.244, 45.091, 6.068).</p>
 <pre line="1" lang="python">
 > dx_at_coord.py 1ke8_3drism_density.dx -12.305 42.442 9.476
