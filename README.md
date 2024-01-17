@@ -79,6 +79,8 @@ HBD_origin -9.501 52.781 13.629 6.264434521935546
 <h2>Reference</h2>
 <ol>
    <li>Hu, B.; Lill, M. A. Protein Pharmacophore Selection Using Hydration-Site Analysis. J. Chem. Inf. Model. 2012, 52 (4), 1046–1060. https://doi.org/10.1021/ci200620h.</li>
+   <li>Alvarez-Garcia D, Barril X (2014) Molecular simulations with solvent competition quantify water displaceability and provide accurate interaction maps of protein binding sites. J Med Chem 57:8530–8539</li>
+   <li>Arcon JP, Defelipe LA, Modenutti CP et al (2017) Molecular dynamics in mixed solvents reveals protein-ligand interactions, improves docking, and allows accurate binding free energy predictions. J Chem Inf Model 57:846–863</li> 
    <li>Yoshida, S.; Uehara, S.; Kondo, N.; Takahashi, Y.; Yamamoto, S.; Kameda, A.; Kawagoe, S.; Inoue, N.; Yamada, M.; Yoshimura, N.; et al. Peptide-to-Small Molecule: A Pharmacophore-Guided Small Molecule Lead Generation Strategy from High-Affinity Macrocyclic Peptides. 2022. https://doi.org/10.1021/acs.jmedchem.2c00919.</li>
   <li>Jung, S. W.; Kim, M.; Ramsey, S.; Kurtzman, T.; Cho, A. E. Water Pharmacophore: Designing Ligands Using Molecular Dynamics Simulations with Water. Sci. Rep. 2018, 8 (1), 10400. https://doi.org/10.1038/s41598-018-28546-z.</li>
 </ol>
